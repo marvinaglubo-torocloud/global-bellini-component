@@ -1,0 +1,13 @@
+{
+  "type": "custom-component",
+  "name": "sub-comp2",
+  "children": [],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "externalScripts": [],
+  "externalStylesheets": [],
+  "localScripts": [],
+  "localStylesheets": []
+}
