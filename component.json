@@ -1,6 +1,6 @@
 {
   "type": "component",
-  "name": "global2",
+  "name": "global",
   "nodeName": "global",
   "children": [],
   "variables": [],
