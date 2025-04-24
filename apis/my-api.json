@@ -1,0 +1,5 @@
+{
+  "name": "my-api",
+  "type": "open-api",
+  "spec": "{\n  \"swagger\": \"2.0\",\n  \"info\": {\n    \"title\": \"my-api\",\n    \"version\": \"1.0.0\"\n  },\n  \"host\": \"test.com\",\n  \"basePath\": \"/\",\n  \"schemes\": [\n    \"https\"\n  ],\n  \"paths\": {\n    \"/\": {\n      \"post\": {\n        \"responses\": {\n          \"200\": {\n            \"description\": \"OK\"\n          }\n        },\n        \"parameters\": [\n          {\n            \"name\": \"test\",\n            \"in\": \"query\",\n            \"default\": \"value\",\n            \"type\": \"string\"\n          }\n        ]\n      }\n    }\n  },\n  \"tags\": []\n}"
+}

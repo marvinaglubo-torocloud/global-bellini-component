@@ -8,6 +8,14 @@
   "styles": [],
   "externalScripts": [],
   "externalStylesheets": [],
-  "localScripts": [],
-  "localStylesheets": []
+  "localScripts": [
+    {
+      "path": "index.js"
+    }
+  ],
+  "localStylesheets": [
+    {
+      "path": "index.css"
+    }
+  ]
 }
