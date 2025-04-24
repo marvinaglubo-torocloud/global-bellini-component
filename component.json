@@ -1,7 +1,7 @@
 {
   "type": "component",
   "name": "global2",
-  "nodeName": "global",
+  "nodeName": "global2",
   "children": [],
   "variables": [],
   "bindings": [],
